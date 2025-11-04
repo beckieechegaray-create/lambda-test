@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+
+# Robot Framework output
+output.xml
+report.html
+log.html
+
+# Chrome driver - if added locally
+chromedriver
+geckodriver
