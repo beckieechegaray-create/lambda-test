@@ -140,22 +140,4 @@ Adjust the workflow to install browser binaries or run in a container that alrea
 - Robot import/library errors:
   - Confirm dependencies are installed in the environment you're running Robot in.
 
-## ✅ Tips & Best Practices
 
-- Put reusable selectors and variables in resource files.
-- Keep tests small and focused — one assertion per test where possible.
-- Use page object or keyword libraries for complex interactions.
-- Run tests locally before pushing to CI to reduce noisy failures.
-
-## Contributing
-
-Contributions are welcome. To contribute:
-1. Fork the repository.
-2. Create a branch for your feature/fix.
-3. Open a pull request with a clear description of the change.
-
-Please include tests for new features where applicable.
-
-## License
-
-Specify your license here (e.g., MIT). If you don't have a license, consider adding one to clarify usage rights.
